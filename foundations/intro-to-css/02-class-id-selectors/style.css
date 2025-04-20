@@ -1,0 +1,27 @@
+.one {
+    background-color: rgb(223, 114, 114);
+    color: black;
+    font-size: 32px;
+}
+
+#two,
+#four {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.three {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#two {
+    color: blue;
+    font-size: 64px;
+}
+
+#four {
+    background-color: greenyellow;
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+}
